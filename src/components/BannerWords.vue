@@ -2,13 +2,38 @@
   <div id="app">
     <div class="row">
       <div class="col-md-2">
-        <img style="width: 100%; margin-top: 50px;"
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img style="width: 100%; margin-top: 50px;"
           src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660980050/Kallery/sw/sw23-min_gfvb3a.png"
         />
         <img
         style="width: 100%; margin-top: 50px;"
           src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660979796/Kallery/sw/sw25_p32phe.png"
         />
+    </div>
+    <div class="carousel-item">
+      <img style="width: 100%; margin-top: 50px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660980050/Kallery/sw/sw23-min_gfvb3a.png"
+        />
+        <img
+        style="width: 100%; margin-top: 50px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660979796/Kallery/sw/sw25_p32phe.png"
+        />
+    </div>
+    <div class="carousel-item">
+      <img style="width: 100%; margin-top: 50px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660980050/Kallery/sw/sw23-min_gfvb3a.png"
+        />
+        <img
+        style="width: 100%; margin-top: 50px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660979796/Kallery/sw/sw25_p32phe.png"
+        />
+    </div>
+  </div>
+</div>
+
       </div>
       <div class="col-md-8">
          <div class="wrapper">
@@ -22,13 +47,38 @@
   </div>
       </div>
       <div class="col-md-2 pl-5">
-        <img
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+   <img
         style="width: 70%; margin-top: 50px;"
           src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660913419/Kallery/sw/sw3_ra35ia.png"
         />
          <img
         style="width: 70%; margin-top: 20px;"
           src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660913889/Kallery/sw/sw14_uvfytv.png">
+    </div>
+    <div class="carousel-item">
+   <img
+        style="width: 70%; margin-top: 50px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660913419/Kallery/sw/sw3_ra35ia.png"
+        />
+         <img
+        style="width: 70%; margin-top: 20px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660913889/Kallery/sw/sw14_uvfytv.png">
+    </div>
+    <div class="carousel-item">
+   <img
+        style="width: 70%; margin-top: 50px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660913419/Kallery/sw/sw3_ra35ia.png"
+        />
+         <img
+        style="width: 70%; margin-top: 20px;"
+          src="https://res.cloudinary.com/dtlkiv19d/image/upload/v1660913889/Kallery/sw/sw14_uvfytv.png">
+    </div>
+  </div>
+</div>
+        
 
         
         
